@@ -1,0 +1,6 @@
+framework module Pods_TransparentNavigationSplitViewExample {
+  umbrella header "Pods-TransparentNavigationSplitViewExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
